@@ -12,4 +12,4 @@ Skills:
 
 (I can write a hello world program in 1/2 of the languages listed above)
 
-Right now the gihub is mostly a collection of already finished or mostly finished projects.
+Right now the gihub is mostly a collection of already finished or mostly finished projects. I don't use it that much.
