@@ -1,9 +1,15 @@
 
 ## :rotating_light: Welcome to my profile! :rotating_light:
 
-Dude from Zagreb learning programming. 
+Beginner programmer from Croatia
 
-#### What you will find on this page: 
-- Nothing
+Skills:
+- C
+- Nim
+- Python
+- Java
+- Lua
 
-I'll finish this page later.
+(I can write a hello world program in 1/2 of the languages listed above)
+
+Right now the gihub is mostly a collection of already finished or mostly finished projects.
