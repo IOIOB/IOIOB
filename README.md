@@ -1,7 +1,7 @@
 
 ## :rotating_light: Welcome to my profile! :rotating_light:
 
-Beginner programmer from Croatia
+Beginner programmer from Croatia, I also like maths and art.
 
 Skills:
 - C
