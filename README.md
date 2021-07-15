@@ -1,4 +1,4 @@
 
-## :rotating_light: Welcome to my profile! :rotating_light:
+## Welcome to my profile!
 
-Croatian programmer.
+Check out the repositories
